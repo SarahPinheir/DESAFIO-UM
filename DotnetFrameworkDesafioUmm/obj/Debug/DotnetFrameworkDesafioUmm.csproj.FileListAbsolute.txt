@@ -1,0 +1,7 @@
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioUmm\DotnetFrameworkDesafioUmm\obj\Debug\DotnetFrameworkDesafioUmm.csproj.AssemblyReference.cache
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioUmm\DotnetFrameworkDesafioUmm\obj\Debug\DotnetFrameworkDesafioUmm.csproj.CoreCompileInputs.cache
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioUmm\DotnetFrameworkDesafioUmm\bin\Debug\DotnetFrameworkDesafioUmm.exe.config
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioUmm\DotnetFrameworkDesafioUmm\bin\Debug\DotnetFrameworkDesafioUmm.exe
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioUmm\DotnetFrameworkDesafioUmm\bin\Debug\DotnetFrameworkDesafioUmm.pdb
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioUmm\DotnetFrameworkDesafioUmm\obj\Debug\DotnetFrameworkDesafioUmm.exe
+C:\Users\Dinopc\Desktop\DotnetFrameworkDesafioUmm\DotnetFrameworkDesafioUmm\obj\Debug\DotnetFrameworkDesafioUmm.pdb
